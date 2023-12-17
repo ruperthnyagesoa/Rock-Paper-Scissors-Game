@@ -1,2 +1,3 @@
-# Rock-Paper-Scissors-Game
-Rock Paper Scissors game challenge from Frontend Mentor
+# Frontend Mentor - Rock, Paper, Scissors solution
+
+This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH).
